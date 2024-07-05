@@ -1,4 +1,4 @@
-# EPFHelp
+# EPFHelp 🇨🇭🌍
 
 ## Welcome
 
