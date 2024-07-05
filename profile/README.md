@@ -69,6 +69,6 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Contact Us
 
-If you have any questions, suggestions, or just want to say hello, feel free to reach out to us at [contact@epfhelp.org](mailto:info@epfhelp.ch).
+If you have any questions, suggestions, or just want to say hello, feel free to reach out to us at [info@epfhelp.ch](mailto:info@epfhelp.ch).
 
 Thank you for your interest in EPFHelp!
